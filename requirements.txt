@@ -6,3 +6,6 @@ scipy
 seaborn
 boost_histogram
 filterpy
+tqdm
+ipywidgets
+
